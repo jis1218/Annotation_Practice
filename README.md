@@ -1,4 +1,4 @@
-# Annotation에 대한 간단한 설명
+﻿# Annotation에 대한 간단한 설명
 
 #### Annotation을 왜 하는가?
 -	컴파일러에 정보제공
@@ -20,6 +20,7 @@
 #### - Documented = javadoc에 문서화 되어야 하는 element
 #### - Inherited = 상속되는 Annotation
 <br>
+
 ## Annotaion을 쓸 때의 장점
 
 ##### 1. Annotation을 사용하면 소스코드를 사용하는 것보다 통제가 쉬워진다.
